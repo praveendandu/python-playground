@@ -1,3 +1,4 @@
 # python-playground
+questions: https://www.practicepython.org/
 https://stackoverflow.com/questions/4960208/python-2-7-getting-user-input-and-manipulating-as-string-without-quotations
 - never use input function. prefer raw_input() to take input from the user
